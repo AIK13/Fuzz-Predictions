@@ -1,0 +1,15 @@
+Fuzzer,Intercept,Files,Statements,Avg Complexity,Functions,Avg Depth,% Branches,Max Depth,Max Complexity
+AFL,2740,-6.03,0.04,-1150,0.17,12700,-803,null,null
+Eclipser,-753.4,null,0.01,-252.5,-0.2,2805,-57.16,null,null
+Libfuzzer,-1364,null,0.01,-489.9,-0.11,6330,-245.3,null,null
+Lafintel,-1723,null,0.02,-540.4,-0.12,7166,-280.4,null,null
+Entropic,-1352,null,0.02,-485.3,-0.12,6762,-280.6,null,null
+Fastcgs,-2009,null,0.02,-798.4,-0.06,9846,-431.2,null,null
+Aflplusplus_mopt,-1937,null,0.02,-791.3,-0.03,9950,-440.9,null,null
+Fairfuzz,-2395,null,0.02,-806.9,-0.03,10940,-508.9,null,null
+AFLFAST,2490,-5.65,0.04,-1091,0.15,12100,-757.1,null,null
+Aflsmart,2739,-6.05,0.04,-1153,0.17,12720,-803.1,null,null
+Aflplusplus,2126.2,-4.56,0.03,-921.26,0.07,9934.09,-595.12,null,null
+Aflplusplus_noalloc,2129.37,-4.58,0.03,-919.86,0.07,9936.71,-595.73,null,null
+Mopt,-3097,null,0.02,-1111,0.1,14790,-720.5,null,null
+Honggfuzz,-2414,null,0.02,-772.1,-0.03,11260,-523.9,null,null

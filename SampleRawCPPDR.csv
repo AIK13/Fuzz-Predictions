@@ -1,0 +1,9 @@
+Benchmark,MISRA # Unnecessary Constructs,MISRA # Lexical convention,MISRA # Basic concepts,MISRA # standard conversions,MISRA # expressions,MISRA # Statements,MISRA # Declaration,MISRA # Declarators,MISRA # Classes,MISRA # Exceptions,MISRA # Preprocessor,MISRA # Library,Project Afferent Coupling,Project Efferent Coupling,Types too big,types too many methods,types too many fields,Methods Too Big/complex,Method too many parameters,method too many local vars,methods too many overloads,methods poorly commented,types poor cohesion,Boolean rules,String rules,Type Rules,IO Rules
+zlib (C),39.00,7.00,44.00,102.00,384.00,65.00,0.00,5.00,492.00,0.00,1.00,6.00,0.00,8.00,0.00,0.00,7.00,24.00,1.00,4.00,0.00,14.00,0.00,2.00,0.00,0.00,0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
